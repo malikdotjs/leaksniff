@@ -1,0 +1,8 @@
+node_modules/
+# Build output is published via package.json files; keep it out of the repo.
+dist/
+coverage/
+.DS_Store
+.env
+.env.*
+*.log
