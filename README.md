@@ -10,6 +10,8 @@ npm i -g leaksniff
 npx leaksniff .
 ```
 
+![CI](https://img.shields.io/github/actions/workflow/status/malikdotjs/leaksniff/ci.yml?branch=main)
+
 ## Quickstart
 
 ```bash
